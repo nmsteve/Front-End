@@ -1,4 +1,4 @@
-# caliculam vitae-Web
+# Curriculum vitae
 
 #### Running locally
 1. Install  <a href="https://nodejs.org/">node and npm </a>
